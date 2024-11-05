@@ -27,7 +27,7 @@
 
     // Todo: Tarea
         
-    // día de hoy - today
+    /* día de hoy - today */
     const today = new Date();
     
     // días transcurridos - elapsed time in days
