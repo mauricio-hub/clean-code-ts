@@ -35,7 +35,7 @@
     }
 
     // obtiene libros desde un URL
-    function getBooksUrl( url: string) {
+    function getBooksByUrl( url: string) {
         throw new Error('Function not implemented.');
     }
     
