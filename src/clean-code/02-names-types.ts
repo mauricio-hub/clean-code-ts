@@ -40,12 +40,12 @@
     }
     
     // obtiene el área de un cuadrado basado en sus lados
-    function getAreaCuadrado( s: number ) {
+    function getSquereAres( side: number ) {
         throw new Error('Function not implemented.');
     }
 
     // imprime el trabajo
-    function printJobIfJob() {
+    function printJob() {
         throw new Error('Function not implemented.');
     }
     
