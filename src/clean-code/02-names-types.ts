@@ -56,7 +56,11 @@
 
 })();
 
-/* (() => {
+/* 
+
+ejercicio 1: Nombres de variables
+
+(() => {
 
     // arreglo de temperaturas celsius
     const arrayOfNums = [33.6, 12.34];
