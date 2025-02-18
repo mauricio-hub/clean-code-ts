@@ -1,8 +1,6 @@
 (()=>{
 
- 
-
-    type HtmlType = 'input'|'select'|'textarea'|'radio';
+     type HtmlType = 'input'|'select'|'textarea'|'radio';
    
     class HtmlElement {
         constructor(
